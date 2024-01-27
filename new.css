@@ -1,0 +1,192 @@
+.searchbar{
+
+height: 40px;
+width: 400px;
+background-color: white;
+border-radius: 20px;
+
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 100px;
+outline: none;
+}
+.baar{
+outline: none;
+border-radius: 5px;
+
+font-size: 25px;
+border: none;
+
+}
+.glass{
+    background-color: white;
+    border: none;
+}
+
+.head11 ul li{
+
+list-style: none;
+display: inline;
+margin: 5px;
+font-family: 'Courier New', Courier, monospace;
+font-style: italic;
+font-size: 25px;
+}
+
+ul{
+
+margin-left: 200px;
+
+
+}
+
+
+
+.head11{
+
+background-image: url(https://e0.pxfuel.com/wallpapers/632/540/desktop-wallpaper-old-paper-texture-brown-paper-texture-paper-background-light-brown-paper-for-with-resolution-high-quality.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+height: 100px;
+width: 100%;
+display: flex;
+align-items: center;
+align-content: center;
+
+}
+ .head11 ul li   a:hover{
+    background-color: rgb(20, 248, 50);
+}
+
+.main{
+background-image: url(https://c0.wallpaperflare.com/preview/788/401/73/flower-floral-paper-vintage.jpg);
+background-repeat: no-repeat;
+background-size: 100%  500px;
+width: 100%;
+height: 500px;
+display: flex;
+
+}
+.laptop1{
+margin-left: 50px;
+    height: 450px;
+    width: 400px;
+border: 3px solid rgb(6, 217, 241);
+border-style: dashed;
+border-radius: 20px;
+align-items: center;
+ text-align: center;
+ margin-top: 10px;
+}
+.laptop2{
+margin-left: 100px;
+    height: 450px;
+    width: 400px;
+border: 3px solid rgb(128, 241, 8);
+border-style: dashed;
+border-radius: 20px;
+align-items: center;
+ text-align: center;
+ margin-top: 10px;
+}
+.laptop3{
+margin-top: 10px;
+    margin-left: 100px;
+    height: 450px;
+    width: 400px;
+border: 3px solid rgb(246, 14, 234);
+border-style: dashed;
+border-radius: 20px;
+align-items: center;
+ text-align: center;
+
+
+}
+.maindiv{
+
+    height: 100%;
+    width: 100%;
+}
+.footer{
+height: 100%;
+width: 100%;
+background-image: url(https://t4.ftcdn.net/jpg/05/00/21/91/360_F_500219175_GqyNHmACEt6sMRkZVxHX4RMXFxOdZ7Lp.jpg );
+
+display: flex;
+}
+.Brands{
+
+    height: 100%;
+    width: 500px;
+   
+    
+}
+.Brands ul li a:hover{
+    background-color: rgb(4, 245, 132);
+}
+.itams ul li a:hover{
+    background-color: rgb(132, 224, 13);
+}
+.itams{
+
+margin-left: 500px;
+
+}
+.head11 h1{
+    
+    color: rgb(17, 1, 1);
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.laptop1 h1{
+    background-color: rgb(14, 132, 241);
+    color: white;
+    border-radius: 10px;
+ margin-left: 100px;
+width: 200px;
+border-style: dashed;
+}
+
+.laptop2 h1{
+    background-color:rgb(132, 224, 13);
+    color: white;
+    border-radius: 10px;
+ margin-left: 100px;
+width: 200px;
+border-style: dashed;
+}
+.laptop3 h1{
+    background-color: rgb(235, 17, 188);
+    color: white;
+    border-radius: 10px;
+ margin-left: 100px;
+width: 200px;
+border-style: dashed;
+}
+.Brands h1{
+   
+    color: rgb(9, 6, 6);
+    border-radius: 10px;
+ margin-left: 50px;
+width: 300px;
+border-style: dashed;
+text-align: center;
+
+}
+.itams h1{
+   
+    color: rgb(12, 5, 5);
+    border-radius: 10px;
+ margin-left: 50px;
+width: 300px;
+border-style: dashed;
+text-align: center;
+}
+.head11 ul li a{
+
+    font-size: 25px;
+    
+
+    
+}

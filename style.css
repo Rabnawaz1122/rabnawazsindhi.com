@@ -1,0 +1,76 @@
+
+
+
+
+.header{
+margin-left: -120px;
+float: left;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+.picpro{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  
+    border: 5px solid rgb(255, 254, 254);
+   
+    position: relative;
+   margin-top: 100px;
+   margin-left: 10px;
+  
+}
+
+h1{
+    color: white;
+}
+
+
+    
+
+
+.row ul li{
+    list-style: none;
+}
+
+.row{
+  
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    border: 2px solid rgb(249, 248, 248);
+    border-radius: 10px;
+    text-align: center;
+    border-style: dashed;
+    align-items: center;
+    margin-left: 400px;
+}
+video{
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.header a{
+    color: white;
+}
+.row ul li a:hover{
+    background-color: rgb(62, 238, 13);
+    
+}
+.row ul{
+    border: 2px solid rgb(249, 248, 248);
+    border-radius: 10px;
+   
+    border-style: dashed;
+    width: 200px;
+   margin-left: 120px;
+    
+}
+marquee{
+
+    color: white;
+    font-size: 20px;
+}

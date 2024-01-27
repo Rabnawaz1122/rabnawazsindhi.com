@@ -1,0 +1,166 @@
+
+
+
+
+.munav{
+
+    height: 80px;
+    position: fixed;
+    z-index: 10;
+    width: 1600px;
+
+}
+.myli{
+    list-style: none;
+    display: inline;
+    display: flex;
+}
+.myli a{
+    font-family: bold;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+.wat{
+    margin-left: 100px;
+}
+.src1122{
+    margin-left: 50px;
+}
+.icon{
+    margin-left: 50px;
+    
+    
+    
+}
+.icon img{
+    margin-left: 30px;
+}
+
+
+.imgsrc{
+    background: none;
+}
+.ropic1 img{
+    height: 170px;
+    width: 170px;    
+    
+}
+.ropic1{
+
+    width: 1500px;
+    height: 200px;
+    text-align: center;
+    padding-left: 70px;
+}
+.rro{
+    width: 1500px;
+    height: 200px;
+    text-align: center;
+    padding-left: 70px;
+}
+.rro img{
+    height: 165px;
+    width: 1400px;
+    margin-left: 15px;
+
+}
+.menwmen img{
+
+width: 685px;
+height: 300px;
+
+margin-top: -40px;
+
+
+
+}
+
+.women{
+    margin-left: -30px;
+}
+.menwomen{
+    width: 1500px;
+    height: 200px;
+    text-align: center;
+    padding-left: 82px;
+    align-items: center;
+    margin-top: -100px;
+
+}
+.rrowsld1{
+
+    width: 1400px;
+    height: 200px;
+    text-align: center;
+    padding-left: 82px;
+    align-items: center;
+    
+    display: flex;
+    display: inline;
+    margin-top: 500px;
+}
+.rrowsld1 img{
+
+    width: 250px;
+    height: 350px;
+  
+    
+}
+.sld22{  display: flex;
+    display: inline;
+
+
+}
+.rrowsld2 {
+   
+    display: inline;
+    display: flex;
+} 
+.colk{
+
+    width: 250px;
+    height: 450px;
+    display: inline;
+    display: flex;
+    align-items: center;
+  
+    
+  
+}
+.picsld2{
+    margin-left: 80px;
+}
+.picsld1{
+    margin-left: -600px;
+}
+.picsld3{
+    margin-left: 40px;
+}
+.picsld4{
+    margin-left: -48px;
+}
+.gool img{
+    width: 200px;
+    height: 200px;
+}
+.gool{
+    width: 1500px;
+    height: 200px;
+    text-align: center;
+    padding-left: 70px;
+   
+
+}
+.banner{
+
+ height: 600px;
+width: 100%;
+margin-left: 80px;
+padding-top: 100px;
+}
+.baner22{
+width: 1400px;
+height: 600px;
+
+
+}
